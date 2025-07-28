@@ -4,9 +4,7 @@ python find.py
 
 # HOW TO SET BITS
 
-def run(process_id):
-    size = 20
-    hexSize = size // 4
+size = 20
     
 if the puzzle is 21 for example, you set 20 bits, and 1 is the prefix
 
